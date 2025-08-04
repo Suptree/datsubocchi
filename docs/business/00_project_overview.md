@@ -37,6 +37,7 @@ AI時代に突入し、これからは単なる知識や能力だけでなく、
 **MVP**
 - 会話を文字起こしする機能
 - 文字起こしした文章を生成AI APIをたたいて、返事を生成
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/24cf3d56-6eff-42c3-97ec-caa1f12ca0e5" />
 
 **今後の拡張**
 - 
